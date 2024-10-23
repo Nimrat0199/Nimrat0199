@@ -1,8 +1,6 @@
-<h1 align="center"> Hi there 👋 , I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Sanjay</a> </h1>
+<h1 align="center"> Hi there 👋 , I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Nirmat</a> </h1>
 
-**Nimrat0199/Nimrat0199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on opensourse projects
 - 🌱 I’m currently learning Backend framework Nodejs
