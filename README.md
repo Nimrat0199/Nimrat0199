@@ -20,6 +20,6 @@
   <img src="https://github.com/Nimrat0199/Nimrat0199/blob/main/badges/bag4.png" width="100px" height="100px" />
 </div>
 
-
+[![An image of @nimrat0199's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimrat0199)](https://holopin.io/@nimrat0199)
 
 
